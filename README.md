@@ -3,13 +3,15 @@ Description
 
 This repository contains the code for my personal portfolio website. It showcases my skills, services offered, past work, and provides a means to contact me.
 
-Table of Contents
+Table of Contents :
 Features
 Usage
 Technologies Used
 Contributing
 License
-Features
+
+
+Features :
 Navigation: Easily navigate through sections like Home, About, Services, Portfolio, and Contact.
 About Me: Detailed information about my background, skills, experiences, and education.
 Services: Descriptions of the services I offer: Web Design, UX/UI Design, and Video Editing.
